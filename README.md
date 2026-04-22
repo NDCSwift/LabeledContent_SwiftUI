@@ -50,4 +50,4 @@ Update the bundle identifier to match your team (e.g. `com.yourname.LabeledConte
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://youtu.be/q6AyeXtG134)
